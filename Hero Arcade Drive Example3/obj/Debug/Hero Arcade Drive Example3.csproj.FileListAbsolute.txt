@@ -1,0 +1,26 @@
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\Hero Arcade Drive Example3.csproj.CoreCompileInputs.cache
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\le\Hero Arcade Drive Example3.exe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\be\Hero Arcade Drive Example3.exe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\le\Hero Arcade Drive Example3.pdb
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\be\Hero Arcade Drive Example3.pdb
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\Hero Arcade Drive Example3.exe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\Hero Arcade Drive Example3.pdb
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\le\Hero Arcade Drive Example3.pe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\le\Hero Arcade Drive Example3.pdbx
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\be\Hero Arcade Drive Example3.pe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\be\Hero Arcade Drive Example3.pdbx
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\LE\ctre_netmf_native.pe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\BE\ctre_netmf_native.pe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\LE\ctre_netmf_native.pdbx
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\BE\ctre_netmf_native.pdbx
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\ctre_netmf_native.dll
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\bin\Debug\ctre_netmf_native.pdb
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\be\Hero Arcade Drive Example3.pe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\be\Hero Arcade Drive Example3.pdbx
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\le\Hero Arcade Drive Example3.pe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\le\Hero Arcade Drive Example3.pdbx
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\Hero Arcade Drive Example3.csproj.CopyComplete
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\Hero Arcade Drive Example3.exe
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\Hero Arcade Drive Example3.pdb
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\Hero Arcade Drive Example3.csprojAssemblyReference.cache
+C:\Users\frank.DIXIE\source\repos\streamworxhero 1\Hero Arcade Drive Example3\obj\Debug\TinyCLR_DebugReferences.cache
